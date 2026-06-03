@@ -1,0 +1,1 @@
+from .box_predictor import BoxPredictor
