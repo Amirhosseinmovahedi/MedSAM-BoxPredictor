@@ -2,7 +2,7 @@
 
 A two-stage training framework built on top of [MedSAM](https://github.com/bowang-lab/MedSAM) that enables automatic bounding box generation from a single point prompt, followed by segmentation mask prediction. Users only need to provide a point click. The model predicts the bounding box and segmentation mask automatically.
 
-[![arXiv](https://img.shields.io/badge/arXiv-2409.11316-b31b1b.svg)](https://arxiv.org/abs/2606.04705)
+[![arXiv](https://img.shields.io/badge/arXiv-2606.04705-b31b1b.svg)](https://arxiv.org/abs/2606.04705)
 
 <br>
 
