@@ -67,3 +67,13 @@ data/
 ```
 
 > All images and masks should be in **`.png`** format (default expected by the code).
+
+## Citation
+If you use this repository in your work, please cite the following paper:
+```bibtex
+@article{movahedisefat2026enhancing,
+  title={Enhancing MedSAM with a Lightweight Box Predictor for Medical Image Segmentation},
+  author={Movahedisefat, Amirhossein and Fateh, Amirreza and Mohammadi, Mohammad Reza},
+  journal={arXiv preprint arXiv:2606.04705},
+  year={2026}
+}
