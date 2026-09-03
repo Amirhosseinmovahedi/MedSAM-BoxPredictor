@@ -5,6 +5,10 @@ A two-stage training framework built on top of [MedSAM](https://github.com/bowan
 [![arXiv](https://img.shields.io/badge/arXiv-2606.04705-b31b1b.svg)](https://arxiv.org/abs/2606.04705)
 [![Published in Biomedical Signal Processing and Control](https://img.shields.io/badge/Published%20in-Biomedical%20Signal%20Processing%20and%20Control-blue.svg)](https://doi.org/10.1016/j.bspc.2026.111328)
 
+<p align="center">
+  <strong>Published in <a href="https://doi.org/10.1016/j.bspc.2026.111328">Biomedical Signal Processing and Control</a></strong>
+</p>
+
 <br>
 
 <p align="center">
